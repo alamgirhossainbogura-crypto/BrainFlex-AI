@@ -1,7 +1,7 @@
 # 🧠 BrainFlex AI
 > Next-Generation Intelligent Study Assistant Powered by Cyclic Multi-API Architecture.
 
-BrainFlex AI is a high-performance educational ecosystem engineered to optimize document parsing, real-time context streaming, and continuous uptime. It automatically converts raw textbooks or uploaded PDFs into instant, highly structured conceptual MCQs or deep-dive conceptual summaries.
+BrainFlex AI is a high-performance educational ecosystem engineered to optimize document parsing, real-time context streaming, and continuous uptime. It automatically converts raw textbooks or uploaded PDFs into instant, highly structured conceptual MCQs or deep-dive summaries.
 
 ---
 
@@ -48,8 +48,3 @@ GEMINI_MCQ_KEY_2=AIzaSy...
 GEMINI_SUM_KEY_1=AIzaSy...
 GEMINI_SUM_KEY_2=AIzaSy...
 # ... through GEMINI_SUM_KEY_8
-
----
-
-
-
