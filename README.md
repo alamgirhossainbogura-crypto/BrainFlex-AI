@@ -34,6 +34,10 @@ Standard AI applications fail under heavy user traffic due to strict API rate li
 
 ---
 
+## 👥 Engineering & Authors
+Md. Abdur Rahman Hridoy - Lead AI Systems Architect & Core Developer
+
+
 ## 📦 Core Configuration
 
 To replicate this production environment, deploy the following schema to your secure Deno Vault:
