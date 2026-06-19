@@ -49,5 +49,7 @@ GEMINI_SUM_KEY_1=AIzaSy...
 GEMINI_SUM_KEY_2=AIzaSy...
 # ... through GEMINI_SUM_KEY_8
 
-## 👥 Engineering & Authors
-Md. Abdur Rahman Hridoy - Lead AI Systems Architect & Core Developer
+---
+
+
+
