@@ -37,6 +37,16 @@ Standard AI applications fail under heavy user traffic due to strict API rate li
 ## 👥 Engineering & Authors
 Md. Abdur Rahman Hridoy - Lead AI Systems Architect & Core Developer
 
+## 🔗 Live Demo
+
+Deploy লিংকটি দেখতে এবং অ্যাপটি সরাসরি ব্যবহার করতে নিচের বাটনে ক্লিক করুন:
+
+[![Live Demo](https://img.shields.io/badge/🟢%20Live%20Demo-Visit%20SafeChild%20App-00D2D3?style=for-the-badge&logo=vercel&logoColor=white)](https://app-cfvwe29noykh.appmedo.com/)
+
+---
+
+
+---
 
 ## 📦 Core Configuration
 
@@ -52,3 +62,7 @@ GEMINI_MCQ_KEY_2=AIzaSy...
 GEMINI_SUM_KEY_1=AIzaSy...
 GEMINI_SUM_KEY_2=AIzaSy...
 # ... through GEMINI_SUM_KEY_8
+
+---
+
+
