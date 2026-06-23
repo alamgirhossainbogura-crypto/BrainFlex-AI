@@ -1,0 +1,5 @@
+# Supabase Project Configuration for BrainFlex AI
+project_id = "brainflex-ai-edge-matrix"
+
+[functions.brainflex-balancer]
+verify_jwt = false
