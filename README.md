@@ -17,11 +17,12 @@ Standard AI applications fail under heavy user traffic due to strict API rate li
 
 ## ⚡ Core Features
 
-* **📖 AI MCQ Generator:** Generates exactly 5 deep, conceptual multiple-choice questions with 4 logical options, explicit correct answers, and concise 1-sentence explanations.
-* **📝 Smart AI Summarizer:** Extracts core intelligence from dense documents to build clean, bulleted summaries followed by an actionable Key Takeaways matrix.
-* **🌊 Native SSE Streaming:** Utilizes Server-Sent Events (`streamGenerateContent`) via Supabase Edge Functions to stream responses text-by-text, delivering a lightning-fast experience.
-* **📄 Hidden Background Processing:** Advanced frontend state handling parses and routes uploaded PDFs entirely in the background, keeping the user interface completely neat, clean, and distraction-free.
-* **🎨 Gemini-Inspired UI:** A modern, expansive workspace built for prolonged study sessions with integrated layout responsive paths for monetization ad-slots.
+*   **📖 AI MCQ Generator:** Generates exactly 5 deep, conceptual multiple-choice questions with 4 logical options, explicit correct answers, and concise explanations.
+*   **📝 Smart AI Summarizer:** Extracts core intelligence from dense documents to build clean, bulleted summaries followed by an actionable Key Takeaways matrix.
+*   **⏱️ Native Focus Stop-Watch:** A built-in tracking utility that eliminates the need for third-party apps, keeping students completely locked into deep study blocks.
+*   **✅ Smart To-Do Matrix:** Allows students to instantly organize their tasks and track daily study targets directly inside the application workspace.
+*   **🌊 Native SSE Streaming:** Utilizes Server-Sent Events via Supabase Edge Functions to stream responses text-by-text, delivering a lightning-fast experience.
+*   **📄 Hidden Background Processing:** Advanced frontend state handling parses uploaded PDFs entirely in the background, keeping the user interface completely neat and distraction-free.
 
 ---
 
